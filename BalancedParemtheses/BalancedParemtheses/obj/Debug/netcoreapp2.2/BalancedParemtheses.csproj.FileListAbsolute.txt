@@ -1,0 +1,11 @@
+D:\C#Advanced\BalancedParemtheses\BalancedParemtheses\bin\Debug\netcoreapp2.2\BalancedParemtheses.deps.json
+D:\C#Advanced\BalancedParemtheses\BalancedParemtheses\bin\Debug\netcoreapp2.2\BalancedParemtheses.runtimeconfig.json
+D:\C#Advanced\BalancedParemtheses\BalancedParemtheses\bin\Debug\netcoreapp2.2\BalancedParemtheses.runtimeconfig.dev.json
+D:\C#Advanced\BalancedParemtheses\BalancedParemtheses\bin\Debug\netcoreapp2.2\BalancedParemtheses.dll
+D:\C#Advanced\BalancedParemtheses\BalancedParemtheses\bin\Debug\netcoreapp2.2\BalancedParemtheses.pdb
+D:\C#Advanced\BalancedParemtheses\BalancedParemtheses\obj\Debug\netcoreapp2.2\BalancedParemtheses.csprojAssemblyReference.cache
+D:\C#Advanced\BalancedParemtheses\BalancedParemtheses\obj\Debug\netcoreapp2.2\BalancedParemtheses.csproj.CoreCompileInputs.cache
+D:\C#Advanced\BalancedParemtheses\BalancedParemtheses\obj\Debug\netcoreapp2.2\BalancedParemtheses.AssemblyInfoInputs.cache
+D:\C#Advanced\BalancedParemtheses\BalancedParemtheses\obj\Debug\netcoreapp2.2\BalancedParemtheses.AssemblyInfo.cs
+D:\C#Advanced\BalancedParemtheses\BalancedParemtheses\obj\Debug\netcoreapp2.2\BalancedParemtheses.dll
+D:\C#Advanced\BalancedParemtheses\BalancedParemtheses\obj\Debug\netcoreapp2.2\BalancedParemtheses.pdb

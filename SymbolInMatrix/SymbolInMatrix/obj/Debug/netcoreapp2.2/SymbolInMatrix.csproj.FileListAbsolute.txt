@@ -1,0 +1,11 @@
+D:\C#Advanced\SymbolInMatrix\SymbolInMatrix\bin\Debug\netcoreapp2.2\SymbolInMatrix.deps.json
+D:\C#Advanced\SymbolInMatrix\SymbolInMatrix\bin\Debug\netcoreapp2.2\SymbolInMatrix.runtimeconfig.json
+D:\C#Advanced\SymbolInMatrix\SymbolInMatrix\bin\Debug\netcoreapp2.2\SymbolInMatrix.runtimeconfig.dev.json
+D:\C#Advanced\SymbolInMatrix\SymbolInMatrix\bin\Debug\netcoreapp2.2\SymbolInMatrix.dll
+D:\C#Advanced\SymbolInMatrix\SymbolInMatrix\bin\Debug\netcoreapp2.2\SymbolInMatrix.pdb
+D:\C#Advanced\SymbolInMatrix\SymbolInMatrix\obj\Debug\netcoreapp2.2\SymbolInMatrix.csprojAssemblyReference.cache
+D:\C#Advanced\SymbolInMatrix\SymbolInMatrix\obj\Debug\netcoreapp2.2\SymbolInMatrix.csproj.CoreCompileInputs.cache
+D:\C#Advanced\SymbolInMatrix\SymbolInMatrix\obj\Debug\netcoreapp2.2\SymbolInMatrix.AssemblyInfoInputs.cache
+D:\C#Advanced\SymbolInMatrix\SymbolInMatrix\obj\Debug\netcoreapp2.2\SymbolInMatrix.AssemblyInfo.cs
+D:\C#Advanced\SymbolInMatrix\SymbolInMatrix\obj\Debug\netcoreapp2.2\SymbolInMatrix.dll
+D:\C#Advanced\SymbolInMatrix\SymbolInMatrix\obj\Debug\netcoreapp2.2\SymbolInMatrix.pdb

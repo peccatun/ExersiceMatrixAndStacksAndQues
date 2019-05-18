@@ -1,0 +1,11 @@
+D:\C#Advanced\JaggedArrayModification\JaggedArrayModification\bin\Debug\netcoreapp2.2\JaggedArrayModification.deps.json
+D:\C#Advanced\JaggedArrayModification\JaggedArrayModification\bin\Debug\netcoreapp2.2\JaggedArrayModification.runtimeconfig.json
+D:\C#Advanced\JaggedArrayModification\JaggedArrayModification\bin\Debug\netcoreapp2.2\JaggedArrayModification.runtimeconfig.dev.json
+D:\C#Advanced\JaggedArrayModification\JaggedArrayModification\bin\Debug\netcoreapp2.2\JaggedArrayModification.dll
+D:\C#Advanced\JaggedArrayModification\JaggedArrayModification\bin\Debug\netcoreapp2.2\JaggedArrayModification.pdb
+D:\C#Advanced\JaggedArrayModification\JaggedArrayModification\obj\Debug\netcoreapp2.2\JaggedArrayModification.csprojAssemblyReference.cache
+D:\C#Advanced\JaggedArrayModification\JaggedArrayModification\obj\Debug\netcoreapp2.2\JaggedArrayModification.csproj.CoreCompileInputs.cache
+D:\C#Advanced\JaggedArrayModification\JaggedArrayModification\obj\Debug\netcoreapp2.2\JaggedArrayModification.AssemblyInfoInputs.cache
+D:\C#Advanced\JaggedArrayModification\JaggedArrayModification\obj\Debug\netcoreapp2.2\JaggedArrayModification.AssemblyInfo.cs
+D:\C#Advanced\JaggedArrayModification\JaggedArrayModification\obj\Debug\netcoreapp2.2\JaggedArrayModification.dll
+D:\C#Advanced\JaggedArrayModification\JaggedArrayModification\obj\Debug\netcoreapp2.2\JaggedArrayModification.pdb

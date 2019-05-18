@@ -1,0 +1,11 @@
+D:\C#Advanced\SumMartixElement\SumMartixElement\bin\Debug\netcoreapp2.2\SumMartixElement.deps.json
+D:\C#Advanced\SumMartixElement\SumMartixElement\bin\Debug\netcoreapp2.2\SumMartixElement.runtimeconfig.json
+D:\C#Advanced\SumMartixElement\SumMartixElement\bin\Debug\netcoreapp2.2\SumMartixElement.runtimeconfig.dev.json
+D:\C#Advanced\SumMartixElement\SumMartixElement\bin\Debug\netcoreapp2.2\SumMartixElement.dll
+D:\C#Advanced\SumMartixElement\SumMartixElement\bin\Debug\netcoreapp2.2\SumMartixElement.pdb
+D:\C#Advanced\SumMartixElement\SumMartixElement\obj\Debug\netcoreapp2.2\SumMartixElement.csprojAssemblyReference.cache
+D:\C#Advanced\SumMartixElement\SumMartixElement\obj\Debug\netcoreapp2.2\SumMartixElement.csproj.CoreCompileInputs.cache
+D:\C#Advanced\SumMartixElement\SumMartixElement\obj\Debug\netcoreapp2.2\SumMartixElement.AssemblyInfoInputs.cache
+D:\C#Advanced\SumMartixElement\SumMartixElement\obj\Debug\netcoreapp2.2\SumMartixElement.AssemblyInfo.cs
+D:\C#Advanced\SumMartixElement\SumMartixElement\obj\Debug\netcoreapp2.2\SumMartixElement.dll
+D:\C#Advanced\SumMartixElement\SumMartixElement\obj\Debug\netcoreapp2.2\SumMartixElement.pdb
